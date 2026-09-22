@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
                 SIH 2026 Problem Statement ID: SIH26069
               </span>
               <span className="bg-slate-800 text-emerald-300 px-2 py-1 rounded border border-slate-700 font-medium">
-                Team InnovateX
+                Team InnovateX1
               </span>
             </div>
           </div>
@@ -65,7 +65,7 @@ export const Footer: React.FC = () => {
 
         <div className="border-t border-slate-800 pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
           <div>
-            © 2026 National Weather Intelligence Platform • Team InnovateX (SIH26069)
+            © 2026 National Weather Intelligence Platform • Team InnovateX1 (SIH26069)
           </div>
           <div className="flex items-center gap-4">
             <span className="hover:text-slate-300 cursor-pointer">Privacy Policy</span>
